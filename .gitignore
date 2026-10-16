@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+data/
+test-results/
+playwright-report/
+*.log
+.secrets/
+backups/
+benchmark-results/

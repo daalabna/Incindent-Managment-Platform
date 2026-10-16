@@ -1,0 +1,84 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "snapshot": {
+    "added": 0,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0,
+    "didUpdate": false
+  },
+  "startTime": 1792079116768,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [],
+          "fullName": "accepts decimal 1.5ms / EU comma / Russian 1,234; rejects fabrications",
+          "status": "passed",
+          "title": "accepts decimal 1.5ms / EU comma / Russian 1,234; rejects fabrications",
+          "duration": 10.481799999999993,
+          "failureMessages": [],
+          "meta": {},
+          "tags": [],
+          "benchmarks": []
+        },
+        {
+          "ancestorTitles": [],
+          "fullName": "rejects leading-dot .5ms vs 5; accepts .5ms vs 0.5",
+          "status": "passed",
+          "title": "rejects leading-dot .5ms vs 5; accepts .5ms vs 0.5",
+          "duration": 1.0431000000000097,
+          "failureMessages": [],
+          "meta": {},
+          "tags": [],
+          "benchmarks": []
+        },
+        {
+          "ancestorTitles": [],
+          "fullName": "rejects version/path/semver/URL number smuggles",
+          "status": "passed",
+          "title": "rejects version/path/semver/URL number smuggles",
+          "duration": 2.1539999999999964,
+          "failureMessages": [],
+          "meta": {},
+          "tags": [],
+          "benchmarks": []
+        },
+        {
+          "ancestorTitles": [],
+          "fullName": "accepts sci 1e2 and hypothesis verification without token grounding",
+          "status": "passed",
+          "title": "accepts sci 1e2 and hypothesis verification without token grounding",
+          "duration": 0.9279999999999973,
+          "failureMessages": [],
+          "meta": {},
+          "tags": [],
+          "benchmarks": []
+        }
+      ],
+      "startTime": 1792079117021,
+      "endTime": 1792079117035.928,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Дарья/Documents/ChatGPT/Incindent Managment Platform/tests/unit/ai-numbers.test.ts"
+    }
+  ]
+}
